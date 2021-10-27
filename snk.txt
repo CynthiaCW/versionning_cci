@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 gdzhegfjzhe
+Hello how are you? 
+=======
+<<<<<<< HEAD
+shcquqghdbucgh
+=======
+gdzhegfjzhe
+>>>>>>> master
+jh xncusfh
+
+bonjour casimir
+
+
+hello azerzergfhrb
+>>>>>>> master
